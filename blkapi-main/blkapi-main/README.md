@@ -1,4 +1,4 @@
-# The Blockchain API
+# BlkAPI
 
 Get an API key pair <a href="https://blkapilabs.com/dashboard">here</a>.
 
