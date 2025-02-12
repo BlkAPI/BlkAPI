@@ -4,9 +4,9 @@
   <a href="https://blkapilabs.com"><img src="https://github.com/Mintplex-Labs/anything-llm/blob/master/images/wordmark.png?raw=true" alt="AnythingLLM logo"></a>
 </p>
 
-<p align="center">
-  <a href="https://blkapilabs.com"><img src="bannerblk.png" alt="BlkAPI"></a>
-</p>
+<div align='center'>
+<a href="https://trendshift.io/repositories/2415" target="_blank"><img src="https://trendshift.io/api/badge/repositories/2415" alt="Mintplex-Labs%2Fanything-llm | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+</div>
 
 
 <p align="center">
@@ -60,4 +60,5 @@ Then see one of the examples in the "examples" folder.
 We have published auto-generated wrappers <a href="https://blkapilabs.com/docs">here</a>.
 
 We have not tested them. If you run into any issues, publish one <a href="https://github.com/BlkAPI/BlkAPI">here</a>.
+
 
