@@ -3,11 +3,6 @@
 ![Alt text](https://raw.githubusercontent.com/BlkAPI/BlkAPI/main/bannerblk.png)
 
 
-<div align='center'>
-<a href="https://trendshift.io/repositories/2415" target="_blank"><img src="https://trendshift.io/api/badge/repositories/2415" alt="Mintplex-Labs%2Fanything-llm | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
-</div>
-
-
 <p align="center">
     <b>BlkAPI:</b> The all-in-one Solana blcokchain API app you were looking for.<br />
     BlkAPI is a development platform offering a suite of tools via a feature-rich API, simplifying blockchain integration. It supports functionalities like NFT minting and wallet creation, with SDKs for multiple programming languages. Designed for ease of use, it requires no prior blockchain experience.
